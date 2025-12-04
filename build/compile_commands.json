@@ -13,6 +13,12 @@
 },
 {
   "directory": "/home/shane/prj/MPRPC/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/shane/prj/MPRPC/src/include -g -fPIC -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/shane/prj/MPRPC/src/rpcheader.pb.cc",
+  "file": "/home/shane/prj/MPRPC/src/rpcheader.pb.cc",
+  "output": "src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o"
+},
+{
+  "directory": "/home/shane/prj/MPRPC/build/src",
   "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/shane/prj/MPRPC/src/include -g -fPIC -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/shane/prj/MPRPC/src/rpcprovider.cc",
   "file": "/home/shane/prj/MPRPC/src/rpcprovider.cc",
   "output": "src/CMakeFiles/mprpc.dir/rpcprovider.cc.o"

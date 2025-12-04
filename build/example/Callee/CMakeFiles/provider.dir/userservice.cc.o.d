@@ -260,4 +260,44 @@ example/Callee/CMakeFiles/provider.dir/userservice.cc.o: \
  /usr/include/c++/11/cassert /usr/local/include/google/protobuf/service.h \
  /home/shane/prj/MPRPC/src/include/mprpcapplication.h \
  /home/shane/prj/MPRPC/src/include/mprpcconfig.h \
- /home/shane/prj/MPRPC/src/include/rpcprovider.h
+ /home/shane/prj/MPRPC/src/include/rpcprovider.h \
+ /usr/include/mymuduo/TcpServer.h /usr/include/mymuduo/Acceptor.h \
+ /usr/include/mymuduo/Channel.h /usr/include/mymuduo/Timestamp.h \
+ /usr/include/mymuduo/noncopyable.h /usr/include/mymuduo/EventLoop.h \
+ /usr/include/mymuduo/CurrentThread.h \
+ /usr/include/x86_64-linux-gnu/sys/syscall.h \
+ /usr/include/x86_64-linux-gnu/asm/unistd.h \
+ /usr/include/x86_64-linux-gnu/asm/unistd_64.h \
+ /usr/include/x86_64-linux-gnu/bits/syscall.h /usr/include/unistd.h \
+ /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+ /usr/include/x86_64-linux-gnu/bits/environments.h \
+ /usr/include/x86_64-linux-gnu/bits/confname.h \
+ /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
+ /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
+ /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
+ /usr/include/linux/close_range.h /usr/include/mymuduo/Poller.h \
+ /usr/include/mymuduo/InetAddress.h /usr/include/netinet/in.h \
+ /usr/include/x86_64-linux-gnu/sys/socket.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_iovec.h \
+ /usr/include/x86_64-linux-gnu/bits/socket.h \
+ /usr/include/x86_64-linux-gnu/bits/socket_type.h \
+ /usr/include/x86_64-linux-gnu/bits/sockaddr.h \
+ /usr/include/x86_64-linux-gnu/asm/socket.h \
+ /usr/include/asm-generic/socket.h /usr/include/linux/posix_types.h \
+ /usr/include/linux/stddef.h \
+ /usr/include/x86_64-linux-gnu/asm/posix_types.h \
+ /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
+ /usr/include/asm-generic/posix_types.h \
+ /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
+ /usr/include/asm-generic/bitsperlong.h \
+ /usr/include/x86_64-linux-gnu/asm/sockios.h \
+ /usr/include/asm-generic/sockios.h \
+ /usr/include/x86_64-linux-gnu/bits/types/struct_osockaddr.h \
+ /usr/include/x86_64-linux-gnu/bits/in.h /usr/include/mymuduo/Socket.h \
+ /usr/include/mymuduo/Buffer.h /usr/include/mymuduo/Callbacks.h \
+ /usr/include/mymuduo/EventLoopThreadPool.h \
+ /usr/include/mymuduo/EventLoopThread.h /usr/include/mymuduo/Thread.h \
+ /usr/include/c++/11/thread /usr/include/c++/11/bits/std_thread.h \
+ /usr/include/c++/11/bits/this_thread_sleep.h \
+ /usr/include/c++/11/condition_variable /usr/include/mymuduo/Logger.h \
+ /usr/include/mymuduo/TcpConnection.h /usr/include/netinet/tcp.h

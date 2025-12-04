@@ -2,6 +2,8 @@ cmake_minimum_required(VERSION 3.0)
 
 project(mprpc)
 
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 set(CMAKE_BUILD_TYPE "Debug")
 
 set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)

@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/shane/prj/MPRPC/src/mprpcapplication.cc" "src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o" "gcc" "src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o.d"
   "/home/shane/prj/MPRPC/src/mprpcconfig.cc" "src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o" "gcc" "src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o.d"
+  "/home/shane/prj/MPRPC/src/rpcheader.pb.cc" "src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o" "gcc" "src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.o.d"
   "/home/shane/prj/MPRPC/src/rpcprovider.cc" "src/CMakeFiles/mprpc.dir/rpcprovider.cc.o" "gcc" "src/CMakeFiles/mprpc.dir/rpcprovider.cc.o.d"
   )
 
