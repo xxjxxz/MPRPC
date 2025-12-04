@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+package fixbug; //声明代码所在的包
+
+option cc_generic_services = true;
+
+// 定义请求消息类型
+message LoginRequest {
+    bytes name = 1;
+    bytes pwd = 2;
+    map<int32, string> test=3;
+}
+
+//定义响应消息类型
+message LoginResponse {
+    Result result = 1;
+    bool success = 2;
+}
+
+message Result {
+    int32 errcode = 1;
+    bytes errmsg = 2;
+}
+message Usr {
+    bytes name = 1;
+    uint32 age = 2;
+    enum Sex {
+        MAN = 0;
+        WOMAN = 1;
+    }
+    Sex sex = 3;
+
+}
+
+message GetFriendListsRequest {
+    uint32 id = 1;
+}
+
+message GetFriendListsResponse {
+    Result result = 1;
+    repeated Usr friendLists = 2;
+}
+
+service UserServiceRpc {
+        rpc Login (LoginRequest) returns (LoginResponse);
+        rpc getFreiendlist (GetFriendListsRequest) returns (GetFriendListsResponse);
+}

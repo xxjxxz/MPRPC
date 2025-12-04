@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/shane/prj/MPRPC/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/shane/prj/MPRPC/src/include -g -fPIC -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/shane/prj/MPRPC/src/mprpcapplication.cc",
+  "file": "/home/shane/prj/MPRPC/src/mprpcapplication.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcapplication.cc.o"
+},
+{
+  "directory": "/home/shane/prj/MPRPC/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/shane/prj/MPRPC/src/include -g -fPIC -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/shane/prj/MPRPC/src/mprpcconfig.cc",
+  "file": "/home/shane/prj/MPRPC/src/mprpcconfig.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcconfig.cc.o"
+},
+{
+  "directory": "/home/shane/prj/MPRPC/build/src",
+  "command": "/usr/bin/g++ -Dmprpc_EXPORTS -I/home/shane/prj/MPRPC/src/include -g -fPIC -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/shane/prj/MPRPC/src/rpcprovider.cc",
+  "file": "/home/shane/prj/MPRPC/src/rpcprovider.cc",
+  "output": "src/CMakeFiles/mprpc.dir/rpcprovider.cc.o"
+},
+{
+  "directory": "/home/shane/prj/MPRPC/build/example/Callee",
+  "command": "/usr/bin/g++  -I/home/shane/prj/MPRPC/src/include -g -o CMakeFiles/provider.dir/userservice.cc.o -c /home/shane/prj/MPRPC/example/Callee/userservice.cc",
+  "file": "/home/shane/prj/MPRPC/example/Callee/userservice.cc",
+  "output": "example/Callee/CMakeFiles/provider.dir/userservice.cc.o"
+},
+{
+  "directory": "/home/shane/prj/MPRPC/build/example/Callee",
+  "command": "/usr/bin/g++  -I/home/shane/prj/MPRPC/src/include -g -o CMakeFiles/provider.dir/__/user.pb.cc.o -c /home/shane/prj/MPRPC/example/user.pb.cc",
+  "file": "/home/shane/prj/MPRPC/example/user.pb.cc",
+  "output": "example/Callee/CMakeFiles/provider.dir/__/user.pb.cc.o"
+}
+]
